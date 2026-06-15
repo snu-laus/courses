@@ -1,14 +1,12 @@
-site_name: My Teaching Site
-site_url: https://본인아이디.github.io/teaching-site/
+site_name: Bumjoon Kang's Teaching Site
+site_url: https://laus.snu.ac.kr/teaching-site/
 
 theme:
   name: material
   language: ko
 
 nav:
-  - Home: index.md
-  - AI Literacy:
-      - Overview: ai-literacy/index.md
-      - 2026 Fall:
-          - Syllabus: ai-literacy/2026-fall/syllabus.md
-          - Schedule: ai-literacy/2026-fall/schedule.md
+  - Home: https://laus.snu.ac.kr/teaching
+  - 도시와 주거:
+      - 강의계획서: ai-literacy/index.md
+      - 2025-2: https://bumjoon.notion.site/Urbanism-and-Housing-d3e85f0ebcb14ecc9d211120ba308433?pvs=4          
