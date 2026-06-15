@@ -1,4 +1,4 @@
-# Teaching Site
+# Courses
 
 수업자료와 강의계획서를 공개하는 페이지입니다.
 
