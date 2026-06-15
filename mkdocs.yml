@@ -1,0 +1,14 @@
+site_name: My Teaching Site
+site_url: https://본인아이디.github.io/teaching-site/
+
+theme:
+  name: material
+  language: ko
+
+nav:
+  - Home: index.md
+  - AI Literacy:
+      - Overview: ai-literacy/index.md
+      - 2026 Fall:
+          - Syllabus: ai-literacy/2026-fall/syllabus.md
+          - Schedule: ai-literacy/2026-fall/schedule.md
