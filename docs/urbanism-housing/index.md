@@ -56,11 +56,9 @@ Instructor: 강범준 Bumjoon Kang (39-501)
 [서울시정개발연구원 (2001). 『서울 20세기 공간변천사』](https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21478131910002591)
 * [다운로드 링크](https://www.codil.or.kr/viewDtlConRpt.do?gubun=rpt&pMetaCode=OTSDRK050156)
 
-## 추가 권장 읽을거리 Recommended Readings
-
 강의에서 인용하는 자료 중, 한 권씩 읽어 볼 만한 것들입니다. 주차별 상세 참고문헌은 각 주차 강의자료 끝에 있습니다.
 
-- 서울역사편찬원. (2021). 『서울도시계획사 2: 광복~1970년대의 도시계획』 · 『서울도시계획사 3: 1981~1995년의 도시계획』
+- 서울역사편찬원. (2021). [『서울도시계획사 2: 광복~1970년대의 도시계획』](https://history.seoul.go.kr/archive/ebook/view.do?bookguid=22B12EA2-B1FF-3948-CB97-D94800235D71&codeId=&key=2211220003) · [『서울도시계획사 3: 1981~1995년의 도시계획』](https://history.seoul.go.kr/archive/ebook/view.do?key=2211220003&bookguid=986381C6-9A6E-2BD3-6F82-AF15555991A8)
 - 오성훈, 임동근. (2014). 『지도로 보는 수도권 신도시계획 50년 1961–2010』. 건축도시공간연구소
 - 공동주택연구회. (1999). 『한국 공동주택계획의 역사』. 세진사
 - 국가법령정보센터 [law.go.kr](https://www.law.go.kr) — 국토의 계획 및 이용에 관한 법률, 건축법, 주택법, 도시 및 주거환경정비법 등
