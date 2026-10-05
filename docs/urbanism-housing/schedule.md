@@ -1,4 +1,4 @@
-﻿업데이트: 2026/09/29
+﻿업데이트: 2026/10/05
 (학기 진행에 따라 세부 내용은 조정될 수 있습니다.)
 
 
@@ -147,39 +147,37 @@
 도시형태를 읽는 개념과 방법
 
 **학습목표**
-1. 도시형태(urban form)와 도시형태학(urban morphology)의 기본 개념을 이해한다.
-2. 가로망, 필지, 블록, 건축유형을 분석 단위로 삼아 도시형태를 읽고 분석한다.
-3. Conzen, Muratori, Caniggia 계열의 연구 전통과 한국에서 도시형태 연구의 의미를 이해한다.
+1. 도시형태(urban form) · 도시형태학(urban morphology) · 정주형태(settlement form)의 개념을 이해하고, 도시를 시간 속에 누적된 형태로 읽는 관점을 얻는다.
+2. 가로 · 필지 · 건축물로 구성된 도시조직(urban tissue)을 분석 단위로 삼아, 두 연구전통(Conzen의 도시지리 · Muratori/Caniggia의 건축)을 구분한다.
+3. 필지주기 · 유형학적 과정 · 형태–행태 · 밀도–에너지 같은 개념이 한국 도심부의 정비 · 보존 판단에 어떻게 쓰이는지 확인한다.
 
 **핵심 메시지**
-도시형태론은 도시를 무맥락적 대상이 아니라, 시간 속에 누적된 필지·가로·건축유형의 관계(내적 논리 + 외적 관계)로 이해하는 방법이다.
+도시를 '읽는' 언어를 먼저 갖춘 뒤에야, 도시를 '고치는' 판단이 가능하다. 그리고 Barcelona와 Bologna가 보여 주듯, 읽기는 쓰기로 이어질 수 있다.
 
 **주요 내용**
-- 도시형태 = 정주형태 / 도시조직(urban tissue) = 가로 + 필지 + 건축물 + 비물리적 요소
-- 도시형태(대상)와 도시형태학(연구) — '형태학'이라는 말의 계보(괴테 · 부르다흐, 언어학 · 민담학 · 수학의 형태학) / 도시형태의 요소: 도시조직의 해상도 · 자연적 맥락 · 가로 · 필지 · 건축물
-  (오래 버티는 순서: 가로 > 필지 > 건축물), 그리고 도시형태를 바꾸는 행위자와 과정 (Oliveira 2016)
-- 두 전통: 독일→영국 Conzen·Whitehand(도시지리) vs 이탈리아 Muratori·Caniggia(건축)
-- Conzen town-plan analysis, plan-unit, 필지주기(burgage cycle), fringe belt
-- 한국 적용: 진영효·안건혁(2009) 서울 도심부 유형화 / 가로수길로 본 필지주기
-- Muratori의 operative history, Caniggia의 유형학적 과정, Aldo Rossi
-- **바르셀로나 모델** — 솔라-모랄레스와 LUB(1968), 도시 프로젝트, 도시성(투과성·감각성·존중),
-  실천 사례: 푸스타 부두(Moll de la Fusta) · 리야 디아고날(L'Illa Diagonal)
-- **볼로냐 1969 역사도심 보존계획** — 도심 전체를 '하나의 기념물'로, 유형 4범주,
-  PEEP(1973)와 "건축적 보존은 사회적 보존 없이 존재할 수 없다"
-- 형태-행태 연구, 에너지와 밀도(Newman & Kenworthy), 도심부 소단위 정비
-- **계산적 도시형태학(computational urban morphology)**
-  - 야간조도·POI로 전 세계 9,400개 도시의 중심지 네트워크를 구축한 구조적 유형화
-  - OSMnx와 가로망 방향 엔트로피 — 100개 도시의 '격자다움'을 수치로 (서울은 어디에 놓이는가)
-  - 놀리 지도에서 계산적 형태학까지, 그리고 '비판적 도시분석'의 요청
+- 오늘의 질문 — 도시형태를 어떻게 연구할 것인가: 기록(archive) · 기술(describe) · 측정(measure)
+- 도시형태(대상)와 도시형태학(연구) — 형태만이 아니라 그것을 바꾼 행위자와 과정까지. 생물학 · 언어학 · 민담학 · 지리학의 '형태학'이 공유하는 방법: 사례를 나란히 놓고 변형의 규칙을 찾는다
+- 분석 단위로서의 도시조직(urban tissue) — 가로 · 필지 · 건축물의 엮임(Conzen의 삼분법 · Muratori의 포개진 단위 · Kropf의 해상도 사다리), 오래 버티는 순서 가로 > 필지 > 건축물
+- 수치로 읽기 — Spacematrix(FSI · GSI · N, Island와 Fabric 두 층위), 토지이용복합도(통합형과 분할형은 다른 것을 잰다)
+- Conzen — town-plan 분석(Alnwick 1774 vs 1956)과 필지주기(건폐율 14.7% → 65.2% → 19.3%), 도시 휴경지와 fringe belt, Warkworth
+- 한국 적용 — 진영효 · 안건혁(2009)의 M1–M8: 남은 것은 작고 조밀한 것(M1, 필지 42.8%), 바뀐 것은 크게 합친 것(M8, 면적 27.4%) / 익선동 · 가로수길의 현재진행형 필지주기
+- 이탈리아 학파 — Muratori의 '작동하는 역사'와 Venezia 연구, Caniggia의 유형학적 과정, 그 유산
+- 읽기에서 쓰기로 — Barcelona: Solà-Morales의 성장 형태 P · U · E와 도시 프로젝트 / Bologna 1969: 도심 전체를 하나의 기념물로, urbs는 지켰으나 civitas는 미완
+- 서울에 되묻기 — 다동구역 유도지침(2004)과 오늘의 다동, 세운상가 서측
+- 계산적 도시형태학 — 형태(U)와 성능(P)의 수치화, 밀도와 교통에너지, 9,400개 도시의 중심지 그래프, OSMnx. Nolli(1748)의 연장인가, 그리고 '비판적 도시분석'의 경고
 
-**수업 활동**: 동일 축척 두 동네를 가로–필지–건축유형으로 비교 / 답사 사진을 가로·필지·건축물 단위로 재분류
+**수업 활동**: 1929년 지적도 웹지도([gsmap1929](https://vuski.github.io/gsmap1929))를 보고 '발견'한 것 이야기하기
+
+**읽어 올 것**: 서울시정개발연구원(2009) 『서울의 도시형태 연구』 250–293쪽 「격자형 주거지역」
 
 **참고자료**
-- Oliveira, V. (2016). [*Urban Morphology: An Introduction to the Study of the Physical Form of Cities*](https://doi.org/10.1007/978-3-319-32083-0). Springer
-- 조미화. (2026). 「실천적 도시형태학으로서의 바르셀로나 모델」. 『대한건축학회논문집』 42(7), 181–188
-- Bravo, L. (2009). "Area conservation as socialist standard-bearer: a plan for the historical centre of Bologna in 1969." *Docomomo E-Proceedings* 2, 44–53
-- Pang, S., & Dong, L. (2026). "A global structural typology of cities from urban centers." *Computers, Environment and Urban Systems* 130, 102490
-- Boeing, G. (2019). "Urban spatial order: street network orientation, configuration, and entropy." *Applied Network Science* 4:67 — [OSMnx](https://osmnx.readthedocs.io)
+- Oliveira, V. (2016). [*Urban Morphology*](https://doi.org/10.1007/978-3-319-32083-0). Springer
+- 서울시정개발연구원. (2009). [『서울의 도시형태 연구』](https://www.si.re.kr/bbs/view.do?key=2024100039&pstSn=1006280004) — 과제의 출발점
+- Conzen, M. R. G. (1960). ["Alnwick, Northumberland: A Study in Town-Plan Analysis."](https://www.jstor.org/stable/621094) *IBG Transactions* 27
+- 진영효, 안건혁. (2009). [「서울 도심부의 역사적 도시형태 변화유형과 특성」](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02171975). 『한국도시설계학회지』 10(1)
+- Berghauser Pont, M., & Haupt, P. (2021). [*Spacematrix*](https://doi.org/10.59490/mg.38) (개정판). nai010
+- Pang, S., & Dong, L. (2026). ["A global structural typology of cities from urban centers."](https://doi.org/10.1016/j.compenvurbsys.2026.102490) *CEUS* 130
+- Boeing, G. (2017). ["OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks."](https://doi.org/10.1016/j.compenvurbsys.2017.05.004) *Computers, Environment and Urban Systems* 65, 126–139
 ---
 
 ### 6 주차: 신도시
